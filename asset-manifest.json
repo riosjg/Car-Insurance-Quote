@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Car-Insurance-Quote/static/css/main.58af0983.chunk.css",
+    "main.js": "/Car-Insurance-Quote/static/js/main.76ae8e1c.chunk.js",
+    "main.js.map": "/Car-Insurance-Quote/static/js/main.76ae8e1c.chunk.js.map",
+    "runtime-main.js": "/Car-Insurance-Quote/static/js/runtime-main.4f8b1a60.js",
+    "runtime-main.js.map": "/Car-Insurance-Quote/static/js/runtime-main.4f8b1a60.js.map",
+    "static/js/2.4ec6244f.chunk.js": "/Car-Insurance-Quote/static/js/2.4ec6244f.chunk.js",
+    "static/js/2.4ec6244f.chunk.js.map": "/Car-Insurance-Quote/static/js/2.4ec6244f.chunk.js.map",
+    "index.html": "/Car-Insurance-Quote/index.html",
+    "precache-manifest.e88e58b10976bb049105638a8e0f27d0.js": "/Car-Insurance-Quote/precache-manifest.e88e58b10976bb049105638a8e0f27d0.js",
+    "service-worker.js": "/Car-Insurance-Quote/service-worker.js",
+    "static/css/main.58af0983.chunk.css.map": "/Car-Insurance-Quote/static/css/main.58af0983.chunk.css.map",
+    "static/js/2.4ec6244f.chunk.js.LICENSE.txt": "/Car-Insurance-Quote/static/js/2.4ec6244f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f8b1a60.js",
+    "static/js/2.4ec6244f.chunk.js",
+    "static/css/main.58af0983.chunk.css",
+    "static/js/main.76ae8e1c.chunk.js"
+  ]
+}
