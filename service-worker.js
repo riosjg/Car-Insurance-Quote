@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Car-Insurance-Quote/precache-manifest.e88e58b10976bb049105638a8e0f27d0.js"
+  "/Car-Insurance-Quote/precache-manifest.a3890b47f3cc40bed3f7e769d0896544.js"
 );
 
 self.addEventListener('message', (event) => {
